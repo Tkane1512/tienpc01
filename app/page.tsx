@@ -12,7 +12,7 @@ export default function Home() {
       {/* HERO SECTION */}
       <section style={{ padding: 40, textAlign: "center" }}>
         <h2>👋 Xin chào!</h2>
-        <p>Đây là web app đơn giản được tạo bằng Next.js</p>
+        <p>Đây là web đang thử nghiệm</p>
         <button style={{
           marginTop: 20,
           padding: "10px 20px",
@@ -72,7 +72,7 @@ export default function Home() {
         background: "#111",
         color: "white"
       }}>
-        © 2026 My Web App
+        © 2026 Tiến PC01: 0988029196
       </footer>
 
     </main>
